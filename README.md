@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Janoeszki;Software+Engineer;Full-Stack+Developer;Building+clean+scalable+solutions" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full-stack%20development-7C3AED?style=for-the-badge" alt="Focus: Full-stack development" />
-  <img src="https://img.shields.io/badge/Interests-Web%20Apps%20%7C%20APIs%20%7C%20Cloud-0EA5E9?style=for-the-badge" alt="Interests: Web Apps, APIs, Cloud" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities" />
-</div>
-
 ## About Me
 
 I’m a software developer who enjoys turning ideas into reliable, user-friendly products. I care about writing clean code, solving real problems, and building experiences that feel polished from the first click to the final deployment.
@@ -23,8 +17,8 @@ I’m a software developer who enjoys turning ideas into reliable, user-friendly
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -40,8 +34,8 @@ I’m a software developer who enjoys turning ideas into reliable, user-friendly
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## What I Focus On
@@ -51,17 +45,6 @@ I’m a software developer who enjoys turning ideas into reliable, user-friendly
 - Writing maintainable, scalable code
 - Building practical products with clean engineering fundamentals
 - Learning and applying modern tooling in real projects
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janoeszki&show_icons=true&theme=tokyonight&hide_border=true" alt="Janoeszki GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janoeszki&theme=tokyonight&hide_border=true" alt="Janoeszki GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janoeszki&layout=compact&theme=tokyonight&hide_border=true" alt="Janoeszki top languages" />
-</p>
 
 ## Let’s Connect
 
