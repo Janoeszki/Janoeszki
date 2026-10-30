@@ -1,32 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Janoeszki;Software+Engineer;Full-Stack+Developer;Building+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Janoeszki;Software+Engineer;Full-Stack+Developer;Building+products+that+feel+good+and+work+well" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Janoeszki"><img src="https://img.shields.io/badge/GitHub-Janoeszki-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:janosz.k@example.com"><img src="https://img.shields.io/badge/Email-Connect-7C3AED?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Open+to+work-Yes-22C55E?style=for-the-badge" alt="Open to work" /></a>
+  <a href="mailto:hello@janoeszki.dev"><img src="https://img.shields.io/badge/Email-hello%40janoeszki.dev-8B5CF6?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Open+to+work-Available-22C55E?style=for-the-badge" alt="Open to work" /></a>
 </p>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Focus-Full-Stack-8B5CF6?style=flat-square&logo=rocket" />
-  <img src="https://img.shields.io/badge/UX-Driven-Product%20Mindset-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX-Product%20Mindset-EC4899?style=flat-square" />
   <img src="https://img.shields.io/badge/Builds-Scalable%20Systems-10B981?style=flat-square" />
-
 </div>
 
 ## About Me
 
-I’m a software developer who loves turning rough ideas into polished, useful products. I care about clean code, practical problem-solving, and shipping experiences that feel smooth from the first click to the final deployment.
+I’m a software developer who enjoys transforming ideas into thoughtful, reliable digital products. I care about writing clean code, building polished user experiences, and creating systems that are both useful and maintainable.
 
-- 🔭 Building projects that blend strong UX with solid engineering
+- 🔭 Building projects that combine strong UX with solid engineering
 - 🧠 Interested in full-stack development, product thinking, and scalable architecture
 - 🌱 Constantly learning modern frontend, backend, cloud, and automation practices
 - 🤝 Open to collaboration, internships, junior/mid-level software roles, and meaningful projects
 - ⚡ I like shipping work that is practical, maintainable, and built to last
 
-## My Stack
+## What I Build
+
+- Product-minded frontend experiences with strong usability and clarity
+- Backend APIs and app logic that scale without becoming fragile
+- Experiments and side projects that turn ideas into real working tools
+- Clean, maintainable code that is easy to reason about and extend
+
+## Core Stack
 
 ### Languages
 
@@ -50,18 +55,10 @@ I’m a software developer who loves turning rough ideas into polished, useful p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## What I Focus On
-
-- Frontend architecture and UX design
-- API design and backend systems
-- Writing maintainable, scalable code
-- Building practical products with strong fundamentals
-- Learning and applying modern tooling in real projects
-
-## Quick Highlights
+## Quick Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janoeszki&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janoeszki&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=F3F4F6&bg_color=0F172A" alt="GitHub stats" />
 </p>
 
 ## Let’s Connect
@@ -69,9 +66,10 @@ I’m a software developer who loves turning rough ideas into polished, useful p
 - GitHub: https://github.com/Janoeszki
 - Portfolio / projects: coming soon
 - Open to software opportunities: yes
+- Preferred vibe: thoughtful products, real impact, and good engineering
 
-> I enjoy building useful things, learning fast, and contributing to projects that matter.
+> I enjoy building useful things, learning quickly, and contributing to projects that matter.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B6?style=for-the-badge" alt="Made with love" />
 </p>
