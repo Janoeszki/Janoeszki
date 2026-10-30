@@ -1,4 +1,11 @@
-## Hi there 👋
+_Afbeelding_
+_Inspirational Quote_
+
+## Hi there (introtext)
+intro body
+
+Location
+
 
 <!--
 **Janoeszki/Janoeszki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
