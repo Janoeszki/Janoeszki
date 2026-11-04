@@ -6,11 +6,11 @@
 
 I’m a software developer who enjoys transforming ideas into thoughtful, reliable digital products. I care about writing clean code, building polished user experiences, and creating systems that are both useful and maintainable.
 
-- 🔭 Building projects that combine strong UX with solid engineering
-- 🧠 Interested in full-stack development, product thinking, and scalable architecture
-- 🌱 Constantly learning modern frontend, backend, cloud, and automation practices
-- 🤝 Open to collaboration, internships, junior/mid-level software roles, and meaningful projects
-- ⚡ I like shipping work that is practical, maintainable, and built to last
+- Building projects that combine strong UX with solid engineering
+- Interested in full-stack development, product thinking, and scalable architecture
+- Constantly learning modern frontend, backend, cloud, and automation practices
+- Open to collaboration, internships, junior/mid-level software roles, and meaningful projects
+- I like shipping work that is practical, maintainable, and built to last
 
 ## What I Build
 
