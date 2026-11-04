@@ -24,11 +24,11 @@ I’m a software developer who enjoys transforming ideas into thoughtful, reliab
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
 
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
 ## Let’s Connect
