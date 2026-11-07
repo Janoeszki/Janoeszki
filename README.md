@@ -29,21 +29,26 @@ I’m a software developer who enjoys transforming ideas into thoughtful, reliab
 ### Backend
   <a href="https://nodejs.org" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"></a>
   <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL"></a>
-  <a href="https://tableplus.com" title="TablePlus"><img src="https://img.shields.io/badge/TablePlus-000000?style=flat-square&logo=tableplus&logoColor=2DD4BF" alt="TablePlus"></a>
-  <a href="https://insomnia.rest" title="Insomnia"><img src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia"></a>
+  <a href="https://tableplus.com" title="TablePlus"><img src="https://tableplus.com/resources/favicons/apple-icon-60x60.png" alt="TablePlus" width="44"></a>
+  <a href="https://insomnia.rest" title="Insomnia"><img src="./assets/skills/insomnia.svg" width="44" alt="Insomnia"></a>
 
 ### Tools & Platforms
   <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"></a>
   <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"></a>
   <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"></a>
-  <a href="https://warp.dev" title="Warp"><img src="https://img.shields.io/badge/Warp-000000?style=flat-square&logo=warp&logoColor=00C8FF" alt="Warp"></a>
-  <a href="https://ollama.com" title="Ollama"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"></a>
-  <a href="https://trello.com" title="Trello"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"></a>
+  <a href="https://warp.dev" title="Warp"><img src="https://www.warp.dev/img/logos/warp-pixel-icon.svg" width="44" alt="Warp"></a>
+  <a href="https://ollama.com" title="Ollama"><img src="https://ollama.com/public/ollama-nav.png" width="44" alt="Ollama"></a>
+  <a href="https://vite.dev" title="Vite"><img src="./assets/skills/vitejs-light.svg" width="44" alt="Vite"></a>
+  <a href="https://trello.com" title="Trello"><img src="./assets/skills/trello-light.svg" width="44" alt="Trello"></a>
   <a href="https://discord.com" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="44" alt="Discord"></a>
   <a href="https://obsidian.md" title="Obsidian"><img src="https://skillicons.dev/icons?i=obsidian" width="44" alt="Obsidian"></a>
 
+### Agents
+  <a href="https://gemini.google.com/app" title="Gemini"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg" width="44" alt="Gemini"></a>
+  <a href="https://chatgpt.com/" title="ChatGPT"><img src="https://chatgpt.com/cdn/assets/favicon-48x48.7d42b2e65f.png" width="44" alt="ChatGPT"></a>
+
 ### Methodologie
-<a href="https://www.scrum.org" title="Scrum"><img src="https://img.shields.io/badge/Scrum-00A9E0?style=flat-square&logo=scrumAlliance&logoColor=white" alt="Scrum"></a>
+<a href="https://www.scrum.org" title="Scrum"><img src="https://images.seeklogo.com/logo-png/37/1/scrum-org-logo-png_seeklogo-377081.png" width="44" alt="Scrum"></a>
 
 
 ## Let’s Connect
