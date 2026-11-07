@@ -28,7 +28,7 @@ I’m a software developer who enjoys transforming ideas into thoughtful, reliab
 
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,obsidian)](https://skillicons.dev)
 
 
 ## Let’s Connect
